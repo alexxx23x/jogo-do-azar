@@ -15,3 +15,5 @@ Linguagem utilizada: Python.
 IDE utilizado: Visual Studio Code.
 
 Fluxograma:
+
+[Fluxograma feito - Azar..pdf](https://github.com/user-attachments/files/22035517/Fluxograma.feito.-.Azar.pdf)
